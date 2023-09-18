@@ -363,6 +363,11 @@
             bindings = <&kp RIGHT_SHIFT>;
             key-positions = <26 27>;
         };
+
+        combo_right_command {
+            bindings = <&kp RIGHT_COMMAND>;
+            key-positions = <19 35>;
+        };
     };
 
     macros {
