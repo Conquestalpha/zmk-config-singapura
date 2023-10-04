@@ -366,7 +366,7 @@
 
         combo_right_command {
             bindings = <&kp RIGHT_COMMAND>;
-            key-positions = <35 9>;
+            key-positions = <35 19>;
         };
     };
 
