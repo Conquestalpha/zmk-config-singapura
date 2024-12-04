@@ -368,6 +368,16 @@
             bindings = <&kp RIGHT_SHIFT>;
             key-positions = <19 35>;
         };
+
+        combo_desktop_left {
+            bindings = <&kp LC(LEFT_ARROW)>;
+            key-positions = <3 13>;
+        };
+
+        combo_desktop_right {
+            bindings = <&kp LC(RIGHT)>;
+            key-positions = <14 4>;
+        };
     };
 
     macros {
